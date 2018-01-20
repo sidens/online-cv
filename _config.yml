@@ -11,7 +11,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
+name: Steve Doe
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -29,7 +29,7 @@ twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-83979019-2
 
 # Build settings
 encoding: "utf-8"
