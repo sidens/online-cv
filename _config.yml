@@ -14,10 +14,7 @@ style: styles-2
 name: Steve Siden
 tagline: Customer Success Manager
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I help people leverage technology to enable better decision making & deeper connections. I’ve led innovation at a Fortune 30 and driven customer value at an educational technology startup.'
 
 #sidebar links
 email: hello@stevesiden.com
