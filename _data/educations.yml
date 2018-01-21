@@ -1,8 +1,8 @@
 - education:
-  degree: 'Semester Abroad: Education and International Business'
-  university: University of Melbourne
-  time: '2010'
-- education:
   degree: BS in Information Technology & Web Science, Science Technology & Society
   university: Rensselaer Polytechnic Institute
   time: 2007 - 2011
+- education:
+  degree: 'Semester Abroad: Education and International Business'
+  university: University of Melbourne
+  time: '2010'
